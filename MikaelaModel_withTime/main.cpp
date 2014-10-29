@@ -39,6 +39,8 @@ void theTest()
  int main(int argc, const char * argv[])
  {
  
+	 cout << "Hey, Mikaela!" << endl;
+
 	//Declare our priority Q
 	priority_queue<event*, vector<event*>, timeComparison> iQ;
 
