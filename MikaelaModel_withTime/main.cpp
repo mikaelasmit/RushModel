@@ -51,11 +51,10 @@ void theTest()
 	cout << HivTest->time << endl;
 	cout << iQ.size() << endl;
 	
-	
+	//DoFunStuff();
 	cout << iQ.top()->time << endl;
 	
 	iQ.top()->p_fun();
-
 
 	cin.get();
      return 0;

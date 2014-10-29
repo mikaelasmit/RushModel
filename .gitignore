@@ -21,9 +21,11 @@ Thumbs.db
 [Dd]ebug*/
 *.lib
 *.sbr
+*.sdf
 obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+MikaelaModel_withTime.opensdf
